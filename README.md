@@ -1,9 +1,3 @@
-Got it — you want a **clean, simple, professional project overview** like a **README.md**,
-explained in **easy language**, covering **Student + Recruiter + Client working**,
-**without code**.
-Here it is 👇
-
----
 
 # 🧑‍💼 Job Portal – Project Overview
 
